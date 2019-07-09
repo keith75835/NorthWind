@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\NORTHWIND TRADERS\bin\Debug\netcoreapp2.1\NORTHWIND TRADERS.deps.json
+C:\Users\Student\source\repos\NORTHWIND TRADERS\bin\Debug\netcoreapp2.1\NORTHWIND TRADERS.runtimeconfig.json
+C:\Users\Student\source\repos\NORTHWIND TRADERS\bin\Debug\netcoreapp2.1\NORTHWIND TRADERS.runtimeconfig.dev.json
+C:\Users\Student\source\repos\NORTHWIND TRADERS\bin\Debug\netcoreapp2.1\NORTHWIND TRADERS.dll
+C:\Users\Student\source\repos\NORTHWIND TRADERS\obj\Debug\netcoreapp2.1\NORTHWIND TRADERS.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\NORTHWIND TRADERS\obj\Debug\netcoreapp2.1\NORTHWIND TRADERS.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\NORTHWIND TRADERS\obj\Debug\netcoreapp2.1\NORTHWIND TRADERS.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\NORTHWIND TRADERS\obj\Debug\netcoreapp2.1\NORTHWIND TRADERS.AssemblyInfo.cs
+C:\Users\Student\source\repos\NORTHWIND TRADERS\bin\Debug\netcoreapp2.1\NORTHWIND TRADERS.pdb
+C:\Users\Student\source\repos\NORTHWIND TRADERS\obj\Debug\netcoreapp2.1\NORTHWIND TRADERS.dll
+C:\Users\Student\source\repos\NORTHWIND TRADERS\obj\Debug\netcoreapp2.1\NORTHWIND TRADERS.pdb
